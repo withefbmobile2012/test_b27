@@ -1,0 +1,1 @@
+print("Bekorchilarga salom :)")
